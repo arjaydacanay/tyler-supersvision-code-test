@@ -1,0 +1,7 @@
+ANIMAL,WEIGHT,SPEED,VOTES
+Golden Eagle,4.05kg,200mph,20
+Frigatebird,,95mph,6
+Eurasian hobby,285g,160km/h,18
+White-throated needletail,110g,105mph,16
+Peregrin Falcon,1500g,242mph,12
+Mexican free-tailed bat,.25oz,100mph,37

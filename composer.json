@@ -1,0 +1,23 @@
+{
+  "name": "clp/interview",
+  "description": "CaseloadPRO interview",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Adam Koehn",
+      "email": "adam.koehn@tylertech.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0.0",
+    "ext-json": "*",
+    "phpunit/phpunit": "^6.5",
+    "fzaninotto/faker": "^1.8"
+  },
+  "autoload": {
+    "psr-4": {
+      "Test\\": "test/",
+      "Interview\\": "interview/"
+    }
+  }
+}
